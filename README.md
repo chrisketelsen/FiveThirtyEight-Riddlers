@@ -1,5 +1,4 @@
-# Riddlers from FiveThirtyEight
-*** 
+# FiveThirtyEight Riddlers
 
 [07.07.17 Swimmers at the Beach](http://nbviewer.jupyter.org/github/chrisketelsen/riddlers/blob/master/July7_2017RiddlerExpress.ipynb)
 
