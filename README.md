@@ -6,7 +6,7 @@
 
 [12.22.15 How Long Will Your Smartphone Distract You From Family Dinner](http://nbviewer.jupyter.org/github/chrisketelsen/riddlers/blob/master/Dec22_2015Riddler.ipynb)
 
-[07.07.17 Swimmers at the Beach](http://nbviewer.jupyter.org/github/chrisketelsen/riddlers/blob/master/July7_2017RiddlerExpress.ipynb?flush_cache=true)
+[07.07.17 Swimmers at the Beach](http://nbviewer.jupyter.org/github/chrisketelsen/riddlers/blob/master/July07_2017RiddlerExpress.ipynb)
 
 [07.14.17 Can You Eat More Pizza Than Your Siblings?](http://nbviewer.jupyter.org/github/chrisketelsen/riddlers/blob/master/July14_2017RiddlerExpress.ipynb?flush_cache=true)
 
