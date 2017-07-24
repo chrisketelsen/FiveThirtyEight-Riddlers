@@ -12,5 +12,5 @@
 
 [07.14.17 SquishyBall Playoff Strategy](http://nbviewer.jupyter.org/github/chrisketelsen/riddlers/blob/master/July14_2017RiddlerClassic.ipynb?flush_cache=true)
 
-[07.21.17 How Much Is A Spy Worth In A Warring Riddler Nation?](https://github.com/chrisketelsen/riddlers/blob/master/July21_2017RiddlerClassic.ipynb?flush_cache=true)
+[07.21.17 How Much Is A Spy Worth In A Warring Riddler Nation?](http://nbviewer.jupyter.org/github/chrisketelsen/riddlers/blob/master/July21_2017RiddlerClassic.ipynb?flush_cache=true)
 
