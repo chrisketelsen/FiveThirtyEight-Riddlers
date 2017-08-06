@@ -14,3 +14,5 @@
 
 [07.21.17 How Much Is A Spy Worth In A Warring Riddler Nation?](http://nbviewer.jupyter.org/github/chrisketelsen/riddlers/blob/master/July21_2017RiddlerClassic.ipynb?flush_cache=true)
 
+[08.04.17 Is the Bathroom Occupied?](http://nbviewer.jupyter.org/github/chrisketelsen/riddlers/blob/master/Aug04_2017RiddlerClassic.ipynb?flush_cache=true)
+
