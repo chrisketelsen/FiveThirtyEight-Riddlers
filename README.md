@@ -18,3 +18,5 @@
 
 [08.11.17 Can You Plug the White House Leak?](http://nbviewer.jupyter.org/github/chrisketelsen/riddlers/blob/master/Aug11_2017RiddlerExpress.ipynb?flush_cache=true)
 
+[08.11.17 Teetering Tetrahedra](http://nbviewer.jupyter.org/github/chrisketelsen/riddlers/blob/master/Aug11_2017RiddlerClassic.ipynb?flush_cache=true)
+
