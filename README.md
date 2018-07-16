@@ -20,3 +20,5 @@
 
 [08.11.17 Teetering Tetrahedra](http://nbviewer.jupyter.org/github/chrisketelsen/riddlers/blob/master/Aug11_2017RiddlerClassic.ipynb?flush_cache=true)
 
+[07.13.18 A Puzzling Bisection](http://nbviewer.jupyter.org/github/chrisketelsen/FiveThirtyEight-Riddlers/blob/master/July13_2018RiddlerClassic.ipynb?flush_cache=true)
+
