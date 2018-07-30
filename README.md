@@ -22,3 +22,5 @@
 
 [07.13.18 A Puzzling Bisection](http://nbviewer.jupyter.org/github/chrisketelsen/FiveThirtyEight-Riddlers/blob/master/July13_2018RiddlerClassic.ipynb?flush_cache=true)
 
+[07.27.18 A Hamiltonian Doodle](http://nbviewer.jupyter.org/github/chrisketelsen/FiveThirtyEight-Riddlers/blob/master/July27_2018RiddlerClassic.ipynb?flush_cache=true)
+
